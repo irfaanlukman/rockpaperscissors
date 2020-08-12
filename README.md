@@ -14,6 +14,6 @@ What I learned:
 
 - defining computerChoice in a function getComputerChoice by running Math.flow(Math.random() *3) against choices[array of rps] and choices(randomNumber)
 
-- definining game function in switch cases for win/lose/draw conditions and recalling their functions
+- defining game function in switch cases for win/lose/draw conditions and recalling their functions
 
 - defining individual win/lose/draw functions 
