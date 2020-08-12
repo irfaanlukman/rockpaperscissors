@@ -8,11 +8,11 @@ What I learned:
 
 2) It gets tricky to add in-line css in js script, best to leave it seperate and link it via \\userChoice_div.classList.add('green-glow');\\
 
-3) Logicc workflow of javascript:
+3) Logic workflow of javascript:
 
 - defining userChoice in buttons: addEventListeners (click, funtion())
 
-- defining computerChoice in a function getComputerChoice by running Math.floow(Math.random() *3) against choices[array of rps] and choices(randomNumber)
+- defining computerChoice in a function getComputerChoice by running Math.flow(Math.random() *3) against choices[array of rps] and choices(randomNumber)
 
 - definining game function in switch cases for win/lose/draw conditions and recalling their functions
 
