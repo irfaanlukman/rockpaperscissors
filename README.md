@@ -1,6 +1,6 @@
 DESCRIPTION:
 
-In this project, we are required to combine the fundamentals of Javascript, HTML and CSS to create a web-browser game of Rock, Paper, Scissors. It is a simple game against the computer, and the first project involving Jaascript.
+In this project, we are required to combine the fundamentals of Javascript, HTML and CSS to create a web-browser game of Rock, Paper, Scissors. It is a simple game against the computer, and the first project involving Javascript.
 
 What I learned:
 
